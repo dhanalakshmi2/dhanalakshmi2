@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhanalakshmi2
+- 👋 Hi, I’m @dhanalakshmi
 - 👀 I’m interested in ..
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
